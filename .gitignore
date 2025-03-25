@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Zig Stuff
+.zig-cache/
+zig-out/
+
+# Vscode
+.vscode
